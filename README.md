@@ -1,4 +1,4 @@
-Hyperparameter Optimization for SVM Classification of Breast Cancer Dataset
+## Hyperparameter Optimization for SVM Classification of Breast Cancer Dataset
 * This repository explores hyperparameter optimization for a Support Vector Machine (SVM) classifier using GridSearchCV and RandomizedSearchCV techniques to improve accuracy on the Wisconsin Breast Cancer dataset.
 
 Dependencies:
